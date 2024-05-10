@@ -278,26 +278,28 @@ body{
                 width: 100%;
                 margin: 0;
             }
+
+            /*SECTION*/
+
+            section h1{
+                font-size: 38px;
+            }
+
+            section h2{
+                font-size: 28px;
+                padding-right: 15px;
+                padding-left: 15px;
+            }
+
+            form{
+                width: 95%;
+                font-size: 20px;
+            }
+
+            .checkbox-itens label{
+                font-size: 15px;
+             }
+
         }
 
-        /*SECTION*/
-
-        section h1{
-            font-size: 38px;
-        }
-
-        section h2{
-            font-size: 28px;
-            padding-right: 15px;
-            padding-left: 15px;
-        }
-
-        form{
-            width: 95%;
-            font-size: 20px;
-        }
-
-        .checkbox-itens label{
-            font-size: 15px;
-    }
-
+        
