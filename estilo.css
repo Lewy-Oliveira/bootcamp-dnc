@@ -309,6 +309,7 @@ body{
              footer .endereco{
                 width: 95%;
                 margin-bottom: 20px;
+                align-items: center;
              }
 
         }
